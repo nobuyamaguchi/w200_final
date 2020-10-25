@@ -9,5 +9,6 @@ nalyzed Boston Marathon data to generate meaningful insights and actionable reco
 ### Skills
 * Python
 * Exploratory data analysis
+* matplotlib
 
 ### [Link to the report](https://github.com/nobuyamaguchi/w200_final/blob/master/Project%202%20Final%20Report.pdf)
